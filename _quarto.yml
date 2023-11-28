@@ -6,11 +6,11 @@ execute:
   echo: true
 
 book:
-  title: "YOUR PROJECT TITLE"
+  title: "MTA NYCT Express Bus Capacity"
   author:
-    - AUTHOR1 (UNI1)
+    - Shumail Sajjad (ss6972)
     - AUTHOR2 (UNI2)
-  repo-url: https://github.com/YOUR_GITHUB_ACCOUNT/REPO_NAME
+  repo-url: https://github.com/Shumailsajjad/MTA_NYCT_Express_Bus_Capacity
   date: today
   page-footer:
     right: |
